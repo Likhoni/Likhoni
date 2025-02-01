@@ -18,7 +18,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 - ✅ Operating System: Linux(Ubuntu 24.0)
 - ✅ Tool & Services: Postman
 - ✅ RESTFul APIs
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Likhoni)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likhoni)](https://github.com/anuraghazra/github-readme-stats)
